@@ -27,7 +27,7 @@ Ce projet est conteneurisé avec Docker et conçu pour être facilement déploy�
    - Évaluation des performances du modèle avec des métriques standards.
 
 4. **Data Analysis** :
-   - Visualisation interactive des données avec `matplotlib`, `seaborn`, et `plotly`.
+   - Visualisation interactive des données avec `Power BI`, `Streamlit`, et `plotly`.
    - Rapports d’analyse des tendances et insights clés.
 
 ---
